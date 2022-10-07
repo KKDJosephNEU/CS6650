@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a8bce3e-0104-45fd-bdff-5c8fa1eee70f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Fj2xh5SxfkpEgbT1ISvQaeGetb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20221006_0002" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.18275861" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Part1" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Part1Client">
+    <configuration name="Part1Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part1.Part1Client" />
+      <module name="Part1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Util.test" />
+      <module name="Part1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Part1Client" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a8bce3e-0104-45fd-bdff-5c8fa1eee70f" name="Default Changelist" comment="" />
+      <created>1664991420350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664991420350</updated>
+      <workItem from="1664991424096" duration="20616000" />
+      <workItem from="1665116325715" duration="715000" />
+      <workItem from="1665118779756" duration="1459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="174" key="#Project_Structure" timestamp="1664991512273">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="174" key="#Project_Structure/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1664991512273" />
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1665101393651">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665101393651" />
+    <state x="718" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1665094574651">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="574" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1665007329792" />
+    <state x="718" y="116" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665094574651" />
+    <state x="580" y="194" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1664991430891">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="580" y="194" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1664991430891" />
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1665117981277">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665117981277" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1665123010211">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1665012845787" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665123010211" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1665123010211">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1665012845787" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665123010211" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1665123010211">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1665012845787" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665123010211" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1665123010211">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1665012845787" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665123010211" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1665007287066">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1665007287066" />
+    <state x="616" y="238" width="672" height="677" key="run.anything.popup" timestamp="1664991647980">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" width="672" height="677" key="run.anything.popup/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1664991647980" />
+  </component>
+</project>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93fae79e-d1fb-44ab-ace6-64768e25e62f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Fj3BIILxGsjjdLgZyBvrKYxxTl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20221006_0002" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Part1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.18275861" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop_D\CS6650\HW\HW1-Client\Part2\src\main\java\Part2" />
+      <recent name="D:\Desktop_D\CS6650\HW\HW1-Client\Part2\src\main\java" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Part2Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Part2.Part2Client" />
+      <module name="Part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Part2Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93fae79e-d1fb-44ab-ace6-64768e25e62f" name="Default Changelist" comment="" />
+      <created>1664991528078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664991528078</updated>
+      <workItem from="1664991531471" duration="7049000" />
+      <workItem from="1665116325607" duration="1648000" />
+      <workItem from="1665117983708" duration="4444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="174" key="#Project_Structure" timestamp="1664991638950">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="174" key="#Project_Structure/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1664991638950" />
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1665113387585">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665113387585" />
+    <state x="765" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1665110580244">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="765" y="200" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665110580244" />
+    <state x="580" y="194" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1664991594085">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="580" y="194" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1664991594085" />
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1665118776790">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665118776790" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1665122984008">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665122984008" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1665122984008">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665122984008" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1665122984008">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665122984008" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1665122984008">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665122984008" />
+    <state x="440" y="90" key="SettingsEditor" timestamp="1665113953601">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="440" y="90" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665113953601" />
+    <state x="616" y="238" width="672" height="677" key="run.anything.popup" timestamp="1664991642752">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" width="672" height="677" key="run.anything.popup/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1664991642752" />
+  </component>
+</project>

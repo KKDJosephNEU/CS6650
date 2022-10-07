@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbbbfba3-fb8a-4975-9d22-4dbae232d48a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FdwYvvt2xmlOPKGlqusv5THsnB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20221005_0003" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lab" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.18275861" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop_D\CS6650\HW\HW1-Client\Part1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop_D\CS6650\HW\HW1-Client\Part2" />
+      <recent name="D:\Desktop_D\CS6650\HW\HW1-Client\Part1" />
+      <recent name="D:\Desktop_D\CS6650\HW\HW1-Client\Util" />
+      <recent name="D:\Desktop_D\CS6650\HW\HW1-Client\Util\Swagger" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbbbfba3-fb8a-4975-9d22-4dbae232d48a" name="Default Changelist" comment="" />
+      <created>1664835319607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664835319607</updated>
+      <workItem from="1664835325239" duration="54000" />
+      <workItem from="1664866601733" duration="5441000" />
+      <workItem from="1664957115573" duration="1371000" />
+      <workItem from="1664958833494" duration="1414000" />
+      <workItem from="1664962394341" duration="1960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1664960075395">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1664960075395" />
+    <state x="714" y="230" key="DetectedRootsChooserDialog" timestamp="1664960114146">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="714" y="230" key="DetectedRootsChooserDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1664960114146" />
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1665102691931">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1665102691931" />
+    <state x="440" y="90" key="SettingsEditor" timestamp="1664960169357">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="440" y="90" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1664960169357" />
+    <state x="658" y="409" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1664960090832">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="658" y="409" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1664960090832" />
+    <state x="334" y="217" key="new project wizard" timestamp="1664958769631">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="334" y="217" key="new project wizard/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1664958769631" />
+  </component>
+</project>
