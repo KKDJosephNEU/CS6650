@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1541739-fc59-4917-8cc8-3657e9275f4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GhS6gHOjCzLzYfbS3cSxhkRGGo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20221026_0003" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW2-Server" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.18275861" />
+    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop_D\CS6650\HW\HW2\HW2-Client" />
+      <recent name="D:\Desktop_D\CS6650\HW\HW2\HW2-Client\src\main\java\Util" />
+      <recent name="D:\Desktop_D\CS6650\HW\HW2\HW2-Client\src\main\java\Client" />
+      <recent name="D:\Desktop_D\CS6650\HW\HW2\HW2-Client\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Client.Client" />
+      <module name="HW2-Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1541739-fc59-4917-8cc8-3657e9275f4f" name="Default Changelist" comment="" />
+      <created>1666839148813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666839148813</updated>
+      <workItem from="1666839151869" duration="1254000" />
+      <workItem from="1666840427675" duration="4168000" />
+      <workItem from="1666849307638" duration="8219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="174" key="#Project_Structure" timestamp="1666840358252">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="174" key="#Project_Structure/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1666840358252" />
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1666840116684">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1666840116684" />
+    <state x="2500" y="194" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1666840520129">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2500" y="194" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1666840520129" />
+    <state x="2726" y="405" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1666840445385">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2726" y="405" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1666840445385" />
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1666852025052">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1666852025052" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1666912375894">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1666912375894" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1666841767305" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1666912375893">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1666912375893" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1666841767305" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1666912375893">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1666912375893" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1666841767304" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1666912375893">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1666912375893" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1666841767305" />
+    <state x="490" y="171" key="Maven.ArtifactSearchDialog" timestamp="1666839431523">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="490" y="171" key="Maven.ArtifactSearchDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1666839431523" />
+    <state x="440" y="90" key="SettingsEditor" timestamp="1666840300540">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="440" y="90" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1666840300540" />
+  </component>
+</project>
