@@ -1,0 +1,27 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-11.0.14\bin\javadoc.exe" @options @packages"
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\allclasses-index.html = 1664991679309
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\allclasses.html = 1664991679340
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\allpackages-index.html = 1664991679315
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\constant-values.html = 1664991677070
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\deprecated-list.html = 1664991679331
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\element-list = 1664991676667
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\help-doc.html = 1664991679612
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\index-all.html = 1664991679210
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\index.html = 1664991679357
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\member-search-index.js = 1664991679198
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\member-search-index.zip = 1664991679202
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\options = 1664991668426
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\overview-summary.html = 1664991679365
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\overview-tree.html = 1664991678767
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\package-search-index.js = 1664991679174
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\package-search-index.zip = 1664991679188
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\packages = 1664991668428
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\script.js = 1664991679638
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\search.js = 1664991679645
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\serialized-form.html = 1664991677137
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\stylesheet.css = 1664991679630
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\type-search-index.js = 1664991679191
+D:\Desktop_D\CS6650\HW\HW1-Client\Part2\target\apidocs\type-search-index.zip = 1664991679194

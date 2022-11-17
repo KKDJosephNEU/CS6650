@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="io.swagger.client.api.StatisticsApiTest" time="0.002" errors="0" skipped="1">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.4+10-b520.11"/>
+    <property name="sun.boot.library.path" value="D:\IntelliJ IDEA 2019.3\jbr\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Desktop_D\CS6650\HW\HW1-Client\Part2"/>
+    <property name="java.vm.vendor" value="JetBrains s.r.o"/>
+    <property name="java.vendor.url" value="https://www.jetbrains.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Desktop_D\CS6650\HW\HW1-Client\Part2"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.4+10-b520.11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\74019\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="D:\IntelliJ IDEA 2019.3\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="D:\IntelliJ IDEA 2019.3\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\IntelliJ IDEA 2019.3\jbr\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Program Files\Java\jdk1.8.0_231\jre\bin;C:\Users\74019\AppData\Local\Programs\Python\Python38-32;E:\MATLAB\R2019b\runtime\win64;E:\MATLAB\R2019b\bin;C:\Users\74019\Anaconda3;C:\Users\74019\Anaconda3\Scripts;C:\Users\74019\Anaconda3\Library\bin;D:\Android_Studio_SDK\platform-tools;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.1\;C:\Windows\System32;C:\Go\bin;D:\PuTTY\;C:\Users\74019\Desktop\modules\module-3-project-224_dumbledore-s-army\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;&quot;C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin;C:\Program Files\Apache Software Foundation\Tomcat 9.0\lib&quot;;C:\Users\74019\scoop\shims;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Program Files\JetBrains\PyCharm 2019.3.3\bin;D:\IntelliJ IDEA 2019.3\bin;&quot;C:\Program Files\Java\jdk1.8.0_231\bin;&quot;;C:\Users\74019\Anaconda3;C:\Users\74019\Anaconda3\Scripts;C:\Users\74019\Anaconda3\Library\bin;D:\Microsoft VS Code\bin;D:\GoLand 2020.2.3\bin;C:\Users\74019\go\bin;C:\Users\74019\Desktop\modules\module-4-project-224_dumbledore-s-army\bin;C:\ffmpeg\bin;C:\Users\74019\AppData\Roaming\npm;E:\Sublime Text 3;C:\Program Files\MongoDB\Server\4.4\bin;D:\heroku\bin;C:\Users\74019\AppData\Local\Microsoft\WindowsApps;C:\Users\74019\.dotnet\tools;C:\Users\74019\.fly\bin;C:\Program Files (x86)\Graphviz\bin;D:\Downloads\geckodriver.exe\;C:\usr\local\bin\geckodriver.exe;;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="maven.conf" value="D:\IntelliJ IDEA 2019.3\plugins\maven\lib\maven3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\74019"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="74019"/>
+    <property name="java.class.path" value="D:\IntelliJ IDEA 2019.3\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version2019.3 clean install"/>
+    <property name="java.home" value="D:\IntelliJ IDEA 2019.3\jbr"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="11.0.4"/>
+    <property name="java.vendor" value="JetBrains s.r.o"/>
+    <property name="maven.home" value="D:\IntelliJ IDEA 2019.3\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="idea.version2019.3" value="true"/>
+    <property name="java.version.date" value="2019-07-16"/>
+    <property name="java.vendor.url.bug" value="https://youtrack.jetbrains.com"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="io.swagger.client.api.StatisticsApiTest" name="io.swagger.client.api.StatisticsApiTest" time="0">
+    <skipped/>
+  </testcase>
+</testsuite>

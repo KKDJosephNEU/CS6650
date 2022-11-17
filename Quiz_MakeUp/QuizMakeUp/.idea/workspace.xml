@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="QuizMakeUp:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9deac3ee-ff42-420b-9f50-99d7cfc2ebae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2HeY4znBKHmdYHwm0oDqlUnoEp1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20221116_0001" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.48" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.48" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/QuizMakeUp_war_exploded/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="QuizMakeUp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/QuizMakeUp_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_QuizMakeUp" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49443" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="QuizMakeUp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9deac3ee-ff42-420b-9f50-99d7cfc2ebae" name="Default Changelist" comment="" />
+      <created>1668646828217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668646828217</updated>
+      <workItem from="1668646831861" duration="1679000" />
+      <workItem from="1668648582588" duration="2169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="174" key="#Project_Structure" timestamp="1668648521357">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="174" key="#Project_Structure/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1668648521357" />
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668647315071">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1668647315071" />
+    <state x="580" y="194" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1668646970835">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="580" y="194" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1668646970835" />
+    <state width="1293" height="279" key="GridCell.Tab.0.bottom" timestamp="1668652162266">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1293" height="279" key="GridCell.Tab.0.bottom/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1668648469992" />
+    <state width="1293" height="279" key="GridCell.Tab.0.bottom/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1668652162266" />
+    <state width="1293" height="279" key="GridCell.Tab.0.center" timestamp="1668652162266">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1293" height="279" key="GridCell.Tab.0.center/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1668648469992" />
+    <state width="1293" height="279" key="GridCell.Tab.0.center/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1668652162266" />
+    <state width="1293" height="279" key="GridCell.Tab.0.left" timestamp="1668652162266">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1293" height="279" key="GridCell.Tab.0.left/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1668648469992" />
+    <state width="1293" height="279" key="GridCell.Tab.0.left/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1668652162266" />
+    <state width="1293" height="279" key="GridCell.Tab.0.right" timestamp="1668652162266">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1293" height="279" key="GridCell.Tab.0.right/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1668648469992" />
+    <state width="1293" height="279" key="GridCell.Tab.0.right/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1668652162266" />
+    <state x="334" y="217" key="new project wizard" timestamp="1668648333382">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="334" y="217" key="new project wizard/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1668648333382" />
+  </component>
+</project>
