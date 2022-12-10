@@ -1,10 +1,10 @@
 # CS6650  
 
-##`POST`
+## `POST`
 `` /skiers/{resortID}/seasons/{seasonID}/days/{dayID}/skiers/{skierID}/lift/{liftID}/{time}  
 
 
-##`GET`
+## `GET`
 /resorts/{resortID}/seasons/{seasonID}/day/{dayID}/skiers  
 /skiers/{resortID}/seasons/{seasonID}/days/{dayID}/skiers/{skierID}  
 /skiers/{skierID}/vertical  
